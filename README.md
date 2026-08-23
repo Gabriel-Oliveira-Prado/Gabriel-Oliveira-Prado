@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Gabriel Oliveira Prado 👋</h1>
+<h1 align="center">Olá, eu sou Gabriel-Oliveira-Prado 👋</h1>
 
 <p align="center">
   Desenvolvedor <strong>Full Stack</strong> com foco em aplicações web escaláveis,
