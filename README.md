@@ -39,12 +39,10 @@ Atualmente, estou aprofundando projetos que envolvem APIs REST, arquiteturas dis
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Oliveira-Prado&show_icons=true&include_all_commits=true&number_format=long&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&locale=pt-br" alt="Estatísticas do GitHub de Gabriel" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Oliveira-Prado&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas por Gabriel" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel-Oliveira-Prado&theme=github_dark" alt="Contribuições e repositórios públicos de Gabriel" />
 
-  <br />
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Oliveira-Prado&bg_color=00000000&color=8B949E&line=58A6FF&point=C9D1D9&area=true&area_color=1F6FEB&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade de Gabriel no GitHub" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabriel-Oliveira-Prado&theme=github_dark" alt="Estrelas, commits, pull requests e contribuições de Gabriel" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabriel-Oliveira-Prado&theme=github_dark" alt="Linguagens mais usadas nos commits de Gabriel" />
 
 </div>
 
