@@ -25,7 +25,7 @@
 
 Construo aplicações de ponta a ponta, da modelagem dos dados à experiência final. Meu trabalho combina **C# e .NET no backend**, **React no frontend** e uma atenção constante a segurança, desempenho, testes e observabilidade.
 
-Atualmente, estou aprofundando projetos que envolvem APIs REST, arquiteturas distribuídas, PostgreSQL, Redis, automação de qualidade e interfaces responsivas.
+Atualmente, estou aprofundando a criação de **sistemas web** e **APIs REST** com **DDD**, **arquitetura hexagonal** e **MVC**, além de PostgreSQL, automação de qualidade e interfaces responsivas.
 
 ## Tecnologias
 
