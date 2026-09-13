@@ -31,7 +31,7 @@ Atualmente, estou aprofundando projetos que envolvem APIs REST, arquiteturas dis
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,python,nodejs,postgres,mysql,sqlite,redis,docker,kubernetes,git,github,githubactions,vite&perline=9&theme=dark" alt="C#, .NET, React, JavaScript, HTML, CSS, Python, Node.js, PostgreSQL, MySQL, SQLite, Redis, Docker, Kubernetes, Git, GitHub, GitHub Actions e Vite" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,python,nodejs,postgres,mysql,sqlite,redis,docker,bootstrap,git,github,githubactions,vite&perline=9&theme=dark" alt="C#, .NET, React, JavaScript, HTML, CSS, Python, Node.js, PostgreSQL, MySQL, SQLite, Redis, Docker, Bootstrap, Git, GitHub, GitHub Actions e Vite" />
 
 </div>
 
