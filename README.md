@@ -15,7 +15,7 @@
   <a href="https://github.com/Gabriel-Oliveira-Prado?tab=repositories">
     <img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Gabriel-Oliveira-Prado&style=for-the-badge&color=1F6FEB&label=VISITAS" alt="Visualizações do perfil" />
+  <img src="https://img.shields.io/github/followers/Gabriel-Oliveira-Prado?style=for-the-badge&color=1F6FEB&label=SEGUIDORES&logo=github" alt="Seguidores no GitHub" />
 
 </div>
 
