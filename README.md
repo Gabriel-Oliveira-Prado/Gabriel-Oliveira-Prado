@@ -88,7 +88,7 @@ Atualmente, estou aprofundando a criação de **sistemas web** e **APIs REST** c
 - Arquitetura pensada para crescer sem perder clareza.
 - APIs seguras, testáveis e bem documentadas.
 - Interfaces responsivas com foco na experiência de uso.
-- Automação de build, testes e verificações com GitHub Actions.
+- DDD e arquitetura hexagonal para manter as regras de negócio claras e desacopladas da infraestrutura.
 - Observabilidade e desempenho tratados como parte do produto.
 
 ## Contato
